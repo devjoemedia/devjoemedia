@@ -22,4 +22,4 @@
 - VS Code
 - MONGODB
 - FIREBASE
-- - PHP / LARAVEL
+- PHP / LARAVEL
