@@ -11,3 +11,15 @@
 - 📫 How to reach me:on social media @devjoe or @devjoemedia
 - ⚡ Fun fact: Listening to Music and writing Code
 
+## Languages and Tools
+- HTML & CSS
+- SASS
+- JAVASCRIPT
+- REACTJS
+- NODEJS
+- EXPRESS
+- GIT
+- VS Code
+- MONGODB
+- FIREBASE
+- - PHP / LARAVEL
