@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on Medica Appointment Booking App
+- 🔭 I’m currently working on a Medical Appointment Booking App
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on projects.
 - 🤔 I’m looking for help with understanding Backend Development, Authentication and System Design
